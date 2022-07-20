@@ -302,7 +302,7 @@ function App() {
           </DialogActions>
         </Dialog>
         <AppSnackbar messageInfo={snackbarMessage} />
-        <a href="https://codingbeautydev.com">
+        <a href="https://codingbeautydev.com?utm_source=remove-spaces.web.app&utm_medium=referral&utm_campaign=home">
           <Box sx={{ position: 'absolute', right: '8px', bottom: '8px' }}>
             <Box sx={{ display: 'flex', justifyContent: 'flex-end' }}>
               <Typography sx={{ fontSize: 13, color: 'black' }}>
